@@ -8,7 +8,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Web Design**
+- 🔭 I’m currently working as **Junior Front End**
 - 🌱 I’m currently learning **React**
 - 🤩 Fun fact: **I'm afraid of storm⚡**
 
